@@ -1,8 +1,10 @@
-Start the Meeshkan agent:
-`meeshkan start`{{execute}}
+## Install and configure Meeshkan client
+Install `meeshkan` with `pip`:
 
-Clone our client repository that contains the examples in `examples` folder:
-`git clone git@github.com:Meeshkan/meeshkan-client.git`{{execute}}
+`pip3 install meeshkan`{{execute}}
 
-Submit an example script:
-`meeshkan submit --report-interval=10 meeshkan-client/examples/pytorch_mnist.py`{{execute}}
+Setup the agent:
+
+`meeshkan setup`{{execute}}
+
+Congratulations, you have everything ready for getting rocking with Meeshkan!

@@ -4,12 +4,16 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Install requirements",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Install Meeshkan",
         "text": "step2.md"
+      },
+      {
+        "title": "Work with Meeshkan",
+        "text": "step3.md"
       }
     ],
     "intro": {
