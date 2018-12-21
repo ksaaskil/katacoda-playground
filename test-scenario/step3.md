@@ -1,4 +1,3 @@
-## Working with the agent
 Start the Meeshkan agent:
 `meeshkan start`{{execute}}
 

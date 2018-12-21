@@ -1,4 +1,3 @@
-## Install and configure Meeshkan client
 Install `meeshkan` with `pip`:
 
 `pip3 install meeshkan`{{execute}}
