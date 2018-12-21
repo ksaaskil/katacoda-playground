@@ -1,9 +1,8 @@
-Within each step, a series of Markdown extensions have been created that can provide various details for the users' experience.
+Start the Meeshkan agent:
+`meeshkan start`{{execute}}
 
-For example, commands such as `echo "Run in Terminal"`{{execute}}
- can be executed by clicking the command.
+Clone our client repository that contains the examples in `examples` folder:
+`git clone git@github.com:Meeshkan/meeshkan-client.git`{{execute}}
 
-This is done by adding `execute` to the markdown code block, for example:
-<pre>`echo "Run in Terminal"`{{execute}}</pre>
-
-More can be found at the scenario [on Markdown extensions](https://katacoda.com/scenario-examples/markdown-extensions).
+Submit an example script:
+`meeshkan submit --report-interval=10 meeshkan-client/examples/pytorch_mnist.py`{{execute}}
