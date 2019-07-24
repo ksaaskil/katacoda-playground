@@ -24,11 +24,11 @@
     },
     "assets": {
       "client": [
-        { "file": "*.js", "target": "~/tutorial/" },
-        { "file": "*.json", "target": "~/tutorial/" },
+        { "file": "hello.test.js", "target": "~/" },
+        { "file": "*.json", "target": "~/" },
         {
           "file": "__unmock__/hello/index.yaml",
-          "target": "~/tutorial/index.yaml"
+          "target": "~/index.yaml"
         }
       ]
     }
