@@ -22,7 +22,16 @@
     "finish": {
       "text": "finish.md"
     },
-    "assets": { "client": [{ "file": "*.js", "target": "~/" }] }
+    "assets": {
+      "client": [
+        { "file": "*.js", "target": "~/scrapbook/" },
+        { "file": "*.json", "target": "~/scrapbook/" },
+        {
+          "file": "__unmock__/hello/index.yaml",
+          "target": "~/scrapbook/__unmock__/hello/index.yaml"
+        }
+      ]
+    }
   },
   "environment": {
     "uilayout": "editor-terminal"
