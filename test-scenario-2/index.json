@@ -29,5 +29,5 @@
   "backend": {
     "imageid": "node6"
   },
-  "assets": { "client": [{ "file": "*.js", "target": "~/scrapbook/" }] }
+  "assets": { "client": [{ "file": "hello.test.js", "target": "~/" }] }
 }
