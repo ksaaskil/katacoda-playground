@@ -3,7 +3,7 @@
 mkdir -p __unmock__/hello/
 
 while [ ! -f index.yaml ]
-do sleep 1
+do sleep 0.5
 done
 
 echo "File exists, moving."
