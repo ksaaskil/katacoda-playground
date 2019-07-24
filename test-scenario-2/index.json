@@ -29,5 +29,5 @@
   "backend": {
     "imageid": "node6"
   },
-  "assets": { "client": [{ "file": "*", "target": "." }] }
+  "assets": { "client": [{ "file": "*", "target": "/home/" }] }
 }
