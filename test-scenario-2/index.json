@@ -22,7 +22,7 @@
     "finish": {
       "text": "finish.md"
     },
-    "assets": { "client": [{ "file": "*", "target": "~/" }] }
+    "assets": { "client": [{ "file": "*.js", "target": "~/" }] }
   },
   "environment": {
     "uilayout": "editor-terminal"
