@@ -1,20 +1,12 @@
 {
-  "title": "Test scenario with Node.js",
-  "description": "Play around in Node.js with assets",
+  "title": "Test scenario using unmock in Node.js with ready-made assets",
+  "description": "See how unmock works",
   "details": {
     "steps": [
       {
         "title": "Step 1",
         "text": "step1.md",
         "courseData": "move-assets.sh"
-      },
-      {
-        "title": "Step 2",
-        "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
       }
     ],
     "intro": {
