@@ -28,7 +28,7 @@
         { "file": "package.json", "target": "~/" },
         {
           "file": "index.yaml",
-          "target": "~/__unmock__/hello/"
+          "target": "~/"
         }
       ]
     }
