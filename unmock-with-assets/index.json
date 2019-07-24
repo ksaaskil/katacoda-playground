@@ -6,7 +6,7 @@
       {
         "title": "Use unmock",
         "text": "run.md",
-        "courseData": "move-assets.sh"
+        "code": "move-assets.sh"
       }
     ],
     "intro": {
