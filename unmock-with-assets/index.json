@@ -20,7 +20,6 @@
         { "file": "hello.test.js", "target": "~/" },
         { "file": "jest.config.js", "target": "~/" },
         { "file": "package.json", "target": "~/" },
-        { "file": "package-lock.json", "target": "~/" },
         {
           "file": "index.yaml",
           "target": "~/"
