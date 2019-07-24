@@ -28,7 +28,7 @@
         { "file": "package.json", "target": "~/" },
         {
           "file": "index.yaml",
-          "target": "~/index.yaml"
+          "target": "~/"
         }
       ]
     }
