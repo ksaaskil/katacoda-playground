@@ -24,11 +24,11 @@
     },
     "assets": {
       "client": [
-        { "file": "*.js", "target": "~/scrapbook/" },
-        { "file": "*.json", "target": "~/scrapbook/" },
+        { "file": "*.js", "target": "~/tutorial/" },
+        { "file": "*.json", "target": "~/tutorial/" },
         {
           "file": "__unmock__/hello/index.yaml",
-          "target": "~/scrapbook/__unmock__/hello/index.yaml"
+          "target": "~/tutorial/index.yaml"
         }
       ]
     }
