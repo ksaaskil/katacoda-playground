@@ -28,5 +28,6 @@
   },
   "backend": {
     "imageid": "node6"
-  }
+  },
+  "assets": { "client": [{ "file": "*", "target": "." }] }
 }
