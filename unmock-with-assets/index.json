@@ -4,8 +4,8 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "step1.md",
+        "title": "Use unmock",
+        "text": "run.md",
         "courseData": "move-assets.sh"
       }
     ],
@@ -18,7 +18,9 @@
     "assets": {
       "client": [
         { "file": "hello.test.js", "target": "~/" },
+        { "file": "jest.config.js", "target": "~/" },
         { "file": "package.json", "target": "~/" },
+        { "file": "package-lock.json", "target": "~/" },
         {
           "file": "index.yaml",
           "target": "~/"
