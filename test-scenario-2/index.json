@@ -1,6 +1,6 @@
 {
-  "title": "Test scenario",
-  "description": "Play around",
+  "title": "Test scenario with Node.js",
+  "description": "Play around in Node.js with assets",
   "details": {
     "steps": [
       {
