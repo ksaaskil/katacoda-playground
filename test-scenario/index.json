@@ -28,13 +28,5 @@
   },
   "backend": {
     "imageid": "ubuntu"
-  },
-  "assets": {
-    "host01": [
-      {
-        "file": "hello.test.js",
-        "target": "~/"
-      }
-    ]
   }
 }
